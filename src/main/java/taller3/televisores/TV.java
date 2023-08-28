@@ -64,6 +64,10 @@ public class TV {
 		return numTV;
 	}
 	
+	public static void setNumTV(int numTV) {
+		return;
+	}
+	
 	public void turnOn() {
 		estado = true;
 	}
