@@ -40,7 +40,7 @@ public class TV {
 		this.precio = precio;
 	}
 	
-	public int getprecio() {
+	public int getPrecio() {
 		return precio;
 	}
 	
